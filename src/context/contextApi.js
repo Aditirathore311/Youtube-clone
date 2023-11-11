@@ -9,4 +9,6 @@ export const AppContext = (props) => {
   const [searchResults, setSearchResults] = useState(false);
   const [selectCategories, setSelectCategories] = useState(false);
   const [mobileMenu, setMobileMenu] = useState(false);
+
+  
 };
